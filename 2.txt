@@ -3,4 +3,10 @@ ididi
 
 this for commit
 
+<<<<<<< Updated upstream
 sidi
+=======
+
+for stash
+
+>>>>>>> Stashed changes
